@@ -1,23 +1,25 @@
-body, html {
-	background: #E8E3E3;
+#container {
+	height: 800px;
+	width: 100%;
+	background-image: url(../img/bg.jpg);
+    background-size: cover;
 
 }
 
-.btn btn-success {
-	text-align: right;
+#title1 {
+	padding-top: 5%;
 }
 
-#post1 {
-	
-	height: 50%;
-	width: 50%;
-	
 
-}
-#post2 {
-	
-	height: 50%;
-	width: 50%;
+h1 {
+	font-size: 120px;
+	background: white;
+	text-align: center;
 	
 }
 
+h2 {
+	font-size: 40px;
+	background: white;
+	text-align: center;
+}

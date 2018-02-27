@@ -1,0 +1,61 @@
+:root {
+	--base-font: 16px;
+	--grey:grey;
+	--royal:royalblue;
+	--main-background-color: #e3e3e3;
+	--main-text-color: #434343;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: var(--base-font);
+	background-color: var(--main-background-color);
+	color: var(--main-text-color);
+}
+
+.image-port-grey{
+	height: 200px;
+	width: 300px;
+}
+
+.absolute{
+	position: relative;
+	top: 40%;
+}
+
+.marginn{
+	margin-bottom: 20px;
+}
+
+.royal{
+	color: var(--royal);
+}
+
+#container-tagline {
+	height: 800px;
+	width: 100%;
+	background-image: url(../img/bg.jpg);
+    background-size: cover;
+
+}
+
+#title1 {
+	padding-top: 5%;
+}
+
+
+h1 {
+	font-size: 120px;
+	background: white;
+	text-align: center;
+	
+}
+
+h2 {
+	font-size: 40px;
+	background: white;
+	text-align: center;
+}
