@@ -1,0 +1,34 @@
+#imagen-heisenberg{
+	height: 350px;
+	margin-right: 15px;
+}
+
+.col{
+	
+}
+
+.col-8{
+	padding-left: 50px;
+	padding-right: 20px;
+}
+
+
+.row{
+	
+}
+
+
+/*.container{
+	margin-top: 150px;
+	background-color: pink;
+}
+*/
+
+#gray-title{
+	color: #818181;
+}
+
+#heading-message{
+	font-size: 18px;
+
+}

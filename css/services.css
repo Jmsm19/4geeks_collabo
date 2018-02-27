@@ -1,0 +1,19 @@
+#imagen-teclado{
+	height: 300px;
+	margin-left: 15px;
+	padding: 0;
+
+}
+
+.col-8{
+	margin-right: 25px;
+	padding: 0;
+}
+	
+#gray-title-2{
+	color: #818181;
+}
+
+#services-message{
+	font-size: 18px;
+}
