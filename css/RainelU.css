@@ -1,0 +1,28 @@
+:root{
+	--grey:grey;
+	--royal:royalblue;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	line-height: 2;
+}
+
+.image-port-grey{
+	height: 200px;
+	width: 300px;
+}
+
+.absolute{
+	position: relative;
+	top: 40%;
+}
+
+.marginn{
+	margin-bottom: 20px;
+}
+
+.royal{
+	color: var(--royal);
+}
